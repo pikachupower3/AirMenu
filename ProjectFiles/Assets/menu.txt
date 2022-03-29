@@ -1,0 +1,49 @@
+```yaml
+Mains:
+- Steamed Vegetables and Tofu:
+No Air Nomad meal is complete without steamed vegetables. Steamed Vegetables and Tofu is made from vegetables grown in the Temples. 
+- Sweet Rice:
+A combination of rice and sweet fruits. The Air Nomads used ingredients to experiment with from across the nations to cook this dish in order to make it adaptable wherever they traveled.
+- Tofu and Bean Sprouts:
+Mainly eaten during the Yanchen's Festival. It consists of tofu and vegetables of choice and a bit of salt. 
+- Steamed Tofu:
+Prepared by steaming tofu, this helps tofu maintain it's texture and bring out it's unique taste.
+- Mung Bean and Tofu Curry:
+Curry made from mung beans and some spices like garlic and ginger served tofu and vegetables. 
+
+Sides:
+- Rice:
+Rice is a common side dish eaten by the Air Nomads. The rice used is grown in their own Temples.
+- Dumplings:
+Filled with vegetables such as cabbage and ginger, chayote and carrot, and sometimes with milk.
+- Sweet Buns:
+Despite being called a buns it is made from dumplings filled with rice and wrapped in large flat leaves.
+
+Snacks: 
+- Macaroons:
+Macaroons are a popular cookie-shaped confection made with coconut. They are made by mixing coconut flakes with melted coconut oil, maple syrup and vanilla.
+- Tsampa:
+Made with barley. Tsampa was one of Aang's regular mid-training snacks during his long lessons with Monk Gyatso. The young Air Nomads used to watch the monks roast the barley for tsampa by airbending in big whiffs of hot sand until the temple kitchen would be filled with its nutty scent.
+- Moon Peach:
+The moon peach is a pale, round fruit native to Air Nomad territory. In the Southern Air Temple, moon peaches were eaten with fresh cream when summers started cooling into fall.
+
+Desserts:
+- Fruit Pie:
+The fruit pie was one of the Air Nomads' most popular desserts. The monks sold them for one silver piece each and donated the profits to charity. According to Monk Gyatso, the secret to the pie's taste was the gooey filling, and they came in four distinct colors: orange, purple, red, and yellow. The Air Nomads used airbending in the creation of the pies, adding a quick infusion of air into the filling to make it rise and create its distinctive spiral cone shape. According to Aang, the trick to the texture is to airbend the egg whites until they form "fluffy peaks".
+- Egg Custard Tart:
+The egg custard tart or egg tart is a dessert widely coveted by Earth Kingdom citizens, and it was also popular and cooked among the Air Nomads. As the name implies, the tart is a baked pastry filled with egg custard.
+- Moon Peach Crisp:
+Moon Peaches baked with a crispy topping consisting of butter flour, oats suger and spices.
+
+Drinks:
+- Lychee Juice:
+A drink made of lychee nuts. They are found in the Earth Kingdom and Western Air Temple.
+- Onion-Banana Juice:
+Onion-banana juice is a beverage made, as the name suggests, by combining onion and banana. Onion-banana juice makes one's burps taste like pickles and it helps in cleansing the chakras.
+- Tea:
+Air Nomads are known to have their own style of tea, which includes the addition of flour. The nomads also used butter or milk in their tea in order to keep their bodies warm and balanced. \nButter tea was used to greet their friends from other air temples as a special sign of welcome.
+- Fruit Juice:
+Many Fruits and berries combined and mixed to create this amazing juice. Air Nomads mainly use Lemons, Lychee nuts, Moon Peaches and Blueberries.
+- Night Juice:
+Many Moon Peach's all squeezed till all there liquids flow out then they cut the dry peaches and put them on top of the juice.
+```
